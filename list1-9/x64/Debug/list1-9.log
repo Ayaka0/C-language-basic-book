@@ -1,0 +1,4 @@
+﻿  list1-9.c
+C:\Users\ayaka\OneDrive\Desktop\list1-9\list1-9\list1-9.c(9): warning C4700: 初期化されていないローカル変数 'x' が使用されます
+C:\Users\ayaka\OneDrive\Desktop\list1-9\list1-9\list1-9.c(10): warning C4700: 初期化されていないローカル変数 'y' が使用されます
+  list1-9.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list1-9\x64\Debug\list1-9.exe
