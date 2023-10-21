@@ -10,7 +10,7 @@ int main(void)
 	scanf("%d", &no);
 
 	int i;
-	for (i = 0; i <= no; i++)
+	for (i = 1; i <= no; i++)
 		putchar('*');
 	putchar('\n');
 
