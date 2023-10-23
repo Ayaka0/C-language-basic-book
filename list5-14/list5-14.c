@@ -1,0 +1,25 @@
+//配列の要素のうち正の要素を別の配列にコピー
+
+#include<stdio.h>
+
+int main(void)
+{
+	int a[5];
+	int b[5];
+
+	int i;
+	for (i = 0; i < 5; i++) {
+		printf("a[% d] :", i);
+		scanf("%d", &a[i]);
+	}
+
+	int count = 0;
+	for (i = 0; i < 5; i++)
+		if (a[i] > 0)
+			b[count++] = a[i];
+
+	for (i = 0; i < count; i++)
+		printf("b[%d] = %d\n", i, b[i]);
+
+	return 0;
+}
