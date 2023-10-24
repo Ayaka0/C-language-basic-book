@@ -1,0 +1,4 @@
+﻿  list6-1.c
+C:\Users\ayaka\OneDrive\Desktop\list6-1\list6-1\list6-1.c(19,26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list6-1\list6-1\list6-1.c(20,24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  list6-1.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list6-1\x64\Debug\list6-1.exe
