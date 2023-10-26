@@ -1,0 +1,37 @@
+//’€Ÿ’Tõi”Ô•º–@j
+
+#include<stdio.h>
+
+#define NUMBER 5
+#define FAILED -1
+
+//—v‘f”n‚Ì”z—ñv‚©‚çkey‚Æˆê’v‚·‚é—v‘f‚ğ’Tõ
+int search(int v[], int key, int n)
+{
+	int i;
+
+	for (i = 0; v[i] != key; i++);
+	return i < n ? i : FAILED;
+}
+
+int main(void)
+{
+	int ky, idx;
+	int x[NUMBER + 1];
+
+	int i;
+	for (i = 0; i < NUMBER; i++) {
+		printf("x[%d] :", i);
+		scanf("%d", &x[i]);
+	}
+
+	printf("’T‚·’lF");
+	scanf("%d", &ky);
+
+	if ((idx = search(x, ky, NUMBER)) == FAILED)
+		puts("’Tõ‚É¸”sB");
+	else
+		printf("%d‚Í%d”Ô–Ú‚É‚ ‚è‚Ü‚·B\n", ky, idx + 1);
+
+	return 0;
+}
