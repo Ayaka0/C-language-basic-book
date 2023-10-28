@@ -1,0 +1,3 @@
+﻿  list7-12.c
+C:\Users\ayaka\OneDrive\Desktop\list7-12\list7-12\list7-12.c(8,33): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  list7-12.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list7-12\x64\Debug\list7-12.exe
