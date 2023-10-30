@@ -1,0 +1,26 @@
+//•¶š—ñ‚Ì’·‚³‚ğ’²‚×‚é
+
+#include<stdio.h>
+
+//•¶š—ñstr‚Ì’·‚³‚ğ•Ô‚·
+int str_length(const char s[])
+{
+
+	int len = 0;
+
+	while (s[len])
+		len++;
+	return len;
+}
+
+int main(void)
+{
+	char str[128];
+
+	printf("•¶š—ñ‚ğ“ü—Í‚¹‚æ");
+	scanf("%s", str);
+
+	printf("•¶š—ñ\"%s\"‚Ì’·‚³‚Í%d‚Å‚·B\n", str, str_length(str));
+
+	return 0;
+}
