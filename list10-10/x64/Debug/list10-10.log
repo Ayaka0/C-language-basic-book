@@ -1,0 +1,10 @@
+﻿  list10-10.c
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4477: 'printf' : 書式文字列 '%p' には、型 'void *' の引数が必要ですが、可変個引数 2 は型 'int' です
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4313: 'printf': 書式文字列内の '%p' が引数 2 ('int' 型) と競合しています
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4477: 'printf' : 書式文字列 '%p' には、型 'void *' の引数が必要ですが、可変個引数 4 は型 'int' です
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4313: 'printf': 書式文字列内の '%p' が引数 4 ('int' 型) と競合しています
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4477: 'printf' : 書式文字列 '%p' には、型 'void *' の引数が必要ですが、可変個引数 6 は型 'int' です
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4313: 'printf': 書式文字列内の '%p' が引数 6 ('int' 型) と競合しています
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4477: 'printf' : 書式文字列 '%p' には、型 'void *' の引数が必要ですが、可変個引数 8 は型 'int' です
+C:\Users\ayaka\OneDrive\Desktop\list10-10\list10-10\list10-10.c(15,10): warning C4313: 'printf': 書式文字列内の '%p' が引数 8 ('int' 型) と競合しています
+  list10-10.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list10-10\x64\Debug\list10-10.exe
