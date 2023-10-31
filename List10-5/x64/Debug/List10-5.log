@@ -1,0 +1,4 @@
+﻿  list10-5.c
+C:\Users\ayaka\OneDrive\Desktop\List10-5\List10-5\list10-5.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\List10-5\List10-5\list10-5.c(23,7): warning C4101: 'p': ローカル変数は 1 度も使われていません。
+  List10-5.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\List10-5\x64\Debug\List10-5.exe
