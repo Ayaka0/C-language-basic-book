@@ -1,0 +1,7 @@
+﻿  list11-11.c
+C:\Users\ayaka\OneDrive\Desktop\list11-11\list11-11\list11-11.c(14,37): warning C4020: 'strcat': 実引数が多すぎます。
+C:\Users\ayaka\OneDrive\Desktop\list11-11\list11-11\list11-11.c(11,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list11-11\list11-11\list11-11.c(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list11-11\list11-11\list11-11.c(13,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list11-11\list11-11\list11-11.c(14,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  list11-11.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list11-11\x64\Debug\list11-11.exe
