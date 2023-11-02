@@ -1,0 +1,7 @@
+﻿  list12-1.c
+C:\Users\ayaka\OneDrive\Desktop\list12-1\list12-1\list12-1.c(22,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list12-1\list12-1\list12-1.c(23,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list12-1\list12-1\list12-1.c(24,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\list12-1\list12-1\list12-1.c(35,33): warning C4047: '関数': 間接参照のレベルが 'char *' と 'char (*)[64]' で異なっています。
+C:\Users\ayaka\OneDrive\Desktop\list12-1\list12-1\list12-1.c(35,26): warning C4024: 'swap_str': の型が 2 の仮引数および実引数と異なります。
+  list12-1.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\list12-1\x64\Debug\list12-1.exe
