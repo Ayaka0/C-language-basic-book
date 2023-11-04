@@ -1,0 +1,6 @@
+﻿  pra3-8.c
+C:\Users\ayaka\OneDrive\Desktop\pra3-8\pra3-8\pra3-8.c(11,24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\pra3-8\pra3-8\pra3-8.c(12,24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\pra3-8\pra3-8\pra3-8.c(13,24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ayaka\OneDrive\Desktop\pra3-8\pra3-8\pra3-8.c(14,24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pra3-8.vcxproj -> C:\Users\ayaka\OneDrive\Desktop\pra3-8\x64\Debug\pra3-8.exe
